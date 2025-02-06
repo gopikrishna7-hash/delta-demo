@@ -1,2 +1,2 @@
 # delta-demo
-This is a creating new repository
+This is a creating new repository.
